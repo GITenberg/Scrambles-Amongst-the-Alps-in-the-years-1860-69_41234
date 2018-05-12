@@ -1,0 +1,31 @@
+_repo: Scrambles-Amongst-the-Alps-in-the-years-1860-69_41234
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41234-tei/images/coverway.jpg
+creator:
+  author:
+    agent_name: Whymper, Edward
+    birthdate: 1840
+    deathdate: 1911
+    gutenberg_agent_id: '39217'
+    url: http://www.gutenberg.org/2009/agents/39217
+description: 'The first ascent of: Mont Pelvoux, Matterhorn, Dent Blanche, Aiguille
+  Verte ; the mont Cenis pass and the Fell Railway, the great tunnel through the alps.'
+gutenberg_issued: '2012-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41234'
+  lccn: '04015244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountaineers -- Biography'
+- !lcsh 'Whymper, Edward, 1840-1911'
+- !lcsh 'Mountaineering -- Alps -- History -- 19th century'
+- !lcsh 'Alps -- Description and travel'
+- !lcc 'GV'
+title: Scrambles Amongst the Alps in the Years 1860-69
+url: http://www.gutenberg.org/ebooks/41234
