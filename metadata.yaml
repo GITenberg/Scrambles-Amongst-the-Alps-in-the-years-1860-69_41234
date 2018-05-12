@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39217
 description: 'The first ascent of: Mont Pelvoux, Matterhorn, Dent Blanche, Aiguille
   Verte ; the mont Cenis pass and the Fell Railway, the great tunnel through the alps.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41234#Scrambles-Amongst-the-Alps-in-the-years-1860-69
 gutenberg_issued: '2012-10-29'
 gutenberg_type: Text
 identifiers:
